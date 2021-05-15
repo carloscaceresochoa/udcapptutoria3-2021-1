@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Imcudcapp</string>
+    <string name="titulot">Calculo de IMC</string>
+    <string name="nomapelt">Digite Nombre y Apellido</string>
+    <string name="pesot">Digite el Peso (Kg)</string>
+    <string name="estt">Digite estatura (Cm)</string>
+    <string name="saltext">Esperando Datos del Paciente</string>
+    <string name="botont">Calcular</string>
+    <string name="pact">Datos de Paciente</string>
+</resources>
